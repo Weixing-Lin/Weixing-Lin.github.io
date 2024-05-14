@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 I am a master's student majoring in Software Engineering at Shenzhen University. My research interest lies in graph data and incremental learning on graphs.
-
+My email is weixing.lin1999@gmail.com.
